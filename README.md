@@ -25,5 +25,5 @@ export JEKYLL_VERSION=3.8; docker run --rm --volume="$PWD:/srv/jekyll" -it jekyl
 Pour servir le site internet à l’adresse http://localhost:4000 et le modifier quand un fichier change :
 
 ```bash
-export JEKYLL_VERSION=3.8; docker run --rm --volume="$PWD:/srv/jekyll" -p 4000:4000 -it jekyll/jekyll:$JEKYLL_VERSION jekyll serve --watch
+export JEKYLL_VERSION=3.8; docker run --rm --volume="$PWD:/srv/jekyll" -p 4000:4000 -it jekyll/jekyll:$JEKYLL_VERSION jekyll serve --livereload
 ```
