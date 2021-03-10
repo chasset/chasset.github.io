@@ -1,4 +1,4 @@
-# Utilissation de Jekyll
+# Utilisation de Jekyll
 
 Pour créer un nouveau site :
 
