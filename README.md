@@ -1,4 +1,6 @@
-# Utilisation de Jekyll
+# chasset.net
+
+## Utilisation de Jekyll
 
 Pour créer un nouveau site :
 
